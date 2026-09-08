@@ -9,4 +9,4 @@ Pasos para ejecutar el proyecto:
 ## Producción
 
 1. Ejecutar `bun run build`
-2. Tomar la carpeta ``dist` y desplegarla
+2. Tomar la carpeta `dist` y desplegarla
